@@ -1,0 +1,11 @@
+*.sdf
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+!.dll
+!.exe
+*.opensdf
+PwsWin/PwsWin.VC.db
+packages
